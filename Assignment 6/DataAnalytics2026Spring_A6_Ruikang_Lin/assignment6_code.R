@@ -1,7 +1,8 @@
 # =============================================================================
 # Predictive and Prescriptive Analytics – Absenteeism at Work
 # Models: Random Forest Regression, Random Forest Classification, K-Means Clustering
-# Author: [Your Name]
+# Author: Ruikang Lin
+# Note: Claude and CoPilot are used to assist in code generation and figure design.
 # =============================================================================
 
 # ── 0. Load libraries ─────────────────────────────────────────────────────────
